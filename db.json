@@ -1,0 +1,40 @@
+{
+    "studentsinfo": [
+        {
+                "id": "1",
+                "name": "Usman Haider",
+                "email": "usmanhaider@gmail.com",
+                "address": "Room no. 314 Razi 2 hostel Nust, Islamabad",
+                "gender" : "male",
+                "phone": {
+                    "mobile": "+92 3087424734",
+                    "home": "0800 78601",
+                    "office": "00 4235234"
+                }
+        },
+        {
+                "id": "2",
+                "name": "Mariam Adnan",
+                "email": "mariamadnan@gmail.com",
+                "address": "Islamabad",
+                "gender" : "female",
+                "phone": {
+                    "mobile": "+92 3087424734",
+                    "home": "0800 78601",
+                    "office": "00 4235234"
+                }
+        },
+        {
+                "id": "3",
+                "name": "Mariam Husnain",
+                "email": "mariamhusnain@gmail.com",
+                "address": "Rawalpindi",
+                "gender" : "female",
+                "phone": {
+                    "mobile": "+92 3087424734",
+                    "home": "0800 78601",
+                    "office": "00 4235234"
+                }
+        }
+    ]
+}
